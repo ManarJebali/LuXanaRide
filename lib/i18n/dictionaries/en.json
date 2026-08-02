@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "titleSuffix": "LuXana Ride — Electric Scooters & Tricycles",
+    "home": {
+      "title": "LuXana Ride | Electric Scooters & Tricycles",
+      "description": "LuXana Ride distributes fully electric scooters and tricycles: the S1, S2, T1, and T2 lineup. Range, power, and manufacturer warranty. Request a quote."
+    },
+    "scooters": {
+      "title": "Electric Scooters",
+      "description": "Discover the LuXana Ride S1 and S2 electric scooters: power, range, and disc brakes built for the city."
+    },
+    "tricycles": {
+      "title": "Electric Tricycles",
+      "description": "Discover the LuXana Ride T1 and T2 electric tricycles, for utility use or weatherproof comfort."
+    },
+    "about": {
+      "title": "About | LuXana Ride",
+      "description": "LuXana Ride selects and distributes reliable, warrantied electric two- and three-wheelers built for daily use."
+    },
+    "contact": {
+      "title": "Contact | LuXana Ride",
+      "description": "Contact LuXana Ride for a quote, a test ride, or any question about our electric scooters and tricycles."
+    },
+    "privacy": {
+      "title": "Privacy Policy | LuXana Ride",
+      "description": "Learn how LuXana Ride collects and uses data submitted through this site."
+    },
+    "terms": {
+      "title": "Terms of Use | LuXana Ride",
+      "description": "Terms of use for the LuXana Ride website."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "scooters": "Scooters",
+    "tricycles": "Tricycles",
+    "about": "About",
+    "contact": "Contact",
+    "requestInfo": "Request a Quote"
+  },
+  "header": {
+    "callUs": "Call us"
+  },
+  "hero": {
+    "eyebrow": "Fully Electric Scooters & Tricycles",
+    "title": "Ride electric, without compromising on power or comfort.",
+    "subtitle": "LuXana Ride selects and distributes electric scooters and tricycles built for demanding daily use — range, durability, and a manufacturer warranty on every model.",
+    "ctaPrimary": "Explore Scooters",
+    "ctaSecondary": "Explore Tricycles",
+    "imageAlt": "LuXana Ride S1, blue electric scooter, three-quarter front view"
+  },
+  "lineup": {
+    "eyebrow": "The Lineup",
+    "title": "Two scooters, two tricycles — one standard of reliability",
+    "intro": "Every LuXana Ride model ships with a detailed manufacturer warranty on its core components."
+  },
+  "why": {
+    "eyebrow": "Why LuXana Ride",
+    "title": "An electric lineup built to last",
+    "intro": "We select proven, tested models and back each one with clear warranty coverage on every essential component.",
+    "points": [
+      {
+        "title": "2-year lithium battery warranty",
+        "body": "Every model's lithium battery is covered for 2 years — double the lead-acid battery coverage."
+      },
+      {
+        "title": "1-year motor & controller warranty",
+        "body": "The core electrical components — motor and controller — are covered for 1 year across the entire lineup."
+      },
+      {
+        "title": "Disc brakes",
+        "body": "Front disc brakes on every model, for safe, responsive stopping in any condition."
+      },
+      {
+        "title": "Range up to 110 km",
+        "body": "Depending on model and battery choice, range built to cover several days of riding between charges."
+      }
+    ]
+  },
+  "warranty": {
+    "eyebrow": "Manufacturer Warranty",
+    "title": "Detailed coverage, component by component",
+    "intro": "Every LuXana Ride scooter and tricycle is covered by the following manufacturer warranty.",
+    "items": [
+      { "label": "Frame", "duration": "1 year" },
+      { "label": "Front fork", "duration": "1 year" },
+      { "label": "Gears, bearings", "duration": "1 year" },
+      { "label": "Handlebar, stem, brakes (excluding pads and discs)", "duration": "1 year" },
+      { "label": "Motor, controller", "duration": "1 year" },
+      { "label": "Paint (excluding intentional or accidental damage)", "duration": "1 year" },
+      { "label": "Lead-acid battery", "duration": "1 year" },
+      { "label": "Lithium battery", "duration": "2 years" }
+    ]
+  },
+  "ctaBand": {
+    "title": "Ready to try a LuXana Ride?",
+    "subtitle": "Request a quote, ask about a specific model, or book a test ride — our team replies quickly.",
+    "primaryLabel": "Request a Quote",
+    "secondaryLabel": "Contact Us"
+  },
+  "footer": {
+    "description": "Distributor of fully electric scooters and tricycles — S1, S2, T1, and T2 lineup, backed by manufacturer warranty.",
+    "exploreTitle": "Explore",
+    "ownershipTitle": "Support",
+    "contactTitle": "Contact",
+    "hours": "Mon – Sat: 9:00 AM – 6:00 PM",
+    "rights": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfUse": "Terms of Use"
+  },
+  "vehicleDetail": {
+    "backToScooters": "← All Scooters",
+    "backToTricycles": "← All Tricycles",
+    "specsTitle": "Full Specifications",
+    "overviewTitle": "Overview",
+    "featuresTitle": "Key Features",
+    "requestQuote": "Request a Quote",
+    "bookTestRide": "Book a Test Ride",
+    "requestTitlePrefix": "Request information on the",
+    "requestIntro": "Get pricing, availability, and warranty details for this model, or book a test ride at a showroom. A product specialist replies within one business day.",
+    "notSureTitle": "Not sure which model is right for you?",
+    "notSureBody": "Compare the full lineup or talk to a specialist about range, power, and warranty coverage.",
+    "viewAllScooters": "View all scooters",
+    "viewAllTricycles": "View all tricycles",
+    "specs": {
+      "motorPower": "Motor Power",
+      "maxSpeed": "Top Speed",
+      "rangeLithium": "Range (lithium battery)",
+      "rangePlomb": "Range (lead-acid battery)",
+      "chargeTime": "Charge Time",
+      "controller": "Controller",
+      "brakes": "Brakes",
+      "tires": "Tires",
+      "loadCapacity": "Load Capacity"
+    }
+  },
+  "inquiryForm": {
+    "fullName": "Full name",
+    "email": "Email address",
+    "phone": "Phone",
+    "modelOfInterest": "Model of interest",
+    "generalInquiry": "General inquiry",
+    "requestType": "I'm interested in",
+    "requestTypes": {
+      "quote": "Request a quote",
+      "testRide": "Book a test ride",
+      "warranty": "Warranty question",
+      "general": "General question"
+    },
+    "preferredContact": "Preferred contact method",
+    "contactEmail": "Email",
+    "contactPhone": "Phone",
+    "message": "Message",
+    "messagePlaceholder": "Tell us what you're looking for, your city, or any questions about a specific model.",
+    "submit": "Submit Request",
+    "sending": "Sending…",
+    "success": "Thank you — a LuXana Ride specialist will reply within one business day.",
+    "error": "Something went wrong sending your request. Please try again or call us directly."
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Electric two- and three-wheelers, selected and warrantied",
+    "intro": "LuXana Ride distributes electric scooters and tricycles chosen for their reliability, each backed by clear manufacturer warranty coverage on every essential component — motor, controller, battery, and frame.",
+    "approachTitle": "Our Approach",
+    "approach": "We deliberately keep our lineup focused on proven models — two scooters, two tricycles — rather than spreading across dozens of references. That lets us guarantee spare-parts stock and responsive after-sales service on every model we sell.",
+    "warrantyTitle": "Warranty & After-Sales Service",
+    "warrantyBody": "Every vehicle ships with the detailed warranty listed on this page, along with support for routine maintenance and repairs.",
+    "categoriesTitle": "Two Lineups",
+    "categories": [
+      {
+        "title": "Scooters (S1, S2)",
+        "body": "Two-wheel scooters built for the city: up to 2000 W and 75 km/h, with front and rear disc brakes."
+      },
+      {
+        "title": "Tricycles (T1, T2)",
+        "body": "Three-wheel tricycles, from the utility model with a front basket to the enclosed-cabin model built for riding in any weather."
+      }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Let's talk about your next ride.",
+    "intro": "Request a quote, book a test ride, or ask any question about a model — we reply within one business day.",
+    "formTitle": "Send a request",
+    "directTitle": "Direct Contact",
+    "locationsTitle": "Our Showroom",
+    "addressLabel": "Address",
+    "ceoLabel": "Management",
+    "getDirections": "Get Directions"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated: July 28, 2026",
+      "intro": "This policy explains what data LuXana Ride collects through this site, how it's used, and your rights regarding it.",
+      "sections": [
+        {
+          "heading": "Data we collect",
+          "body": "When you use our contact form, we collect the information you voluntarily provide: name, email address, phone number (optional), model of interest, request type, and message. We do not collect any other personal data on this site."
+        },
+        {
+          "heading": "How we use it",
+          "body": "Information submitted through the form is used only to respond to your request (quote, test ride, general question). It is never sold, rented, or shared with third parties for commercial purposes."
+        },
+        {
+          "heading": "Data retention",
+          "body": "Messages received are kept for as long as needed to handle your request, then deleted or archived securely."
+        },
+        {
+          "heading": "Cookies",
+          "body": "This site does not use tracking or advertising analytics cookies. No browsing data is collected for profiling purposes."
+        },
+        {
+          "heading": "Your rights",
+          "body": "You can request access to, correction of, or deletion of the data you've submitted at any time by contacting us directly."
+        }
+      ],
+      "contactNote": "For any question about this privacy policy, contact us at {email} or by phone at {phone}."
+    },
+    "terms": {
+      "title": "Terms of Use",
+      "lastUpdated": "Last updated: July 28, 2026",
+      "intro": "By using this site, you agree to the following terms.",
+      "sections": [
+        {
+          "heading": "Purpose of this site",
+          "body": "This site presents the LuXana Ride electric scooter and tricycle lineup for informational purposes. It does not support online purchases: any transaction (quote, order, payment) happens directly with our team, by phone, email, or in showroom."
+        },
+        {
+          "heading": "Accuracy of information",
+          "body": "We work to keep specifications, descriptions, and availability current. This information may still change without notice; final pricing and availability are confirmed when you make a request."
+        },
+        {
+          "heading": "Intellectual property",
+          "body": "The text, images, and graphic elements on this site belong to LuXana Ride or its suppliers, and may not be reproduced without permission."
+        },
+        {
+          "heading": "Limitation of liability",
+          "body": "LuXana Ride is not liable for improper use of information published on this site, or for decisions made solely on that basis without direct confirmation from our team."
+        },
+        {
+          "heading": "Governing law",
+          "body": "These terms are governed by Tunisian law. Any dispute falls under the jurisdiction of the competent courts of Monastir, Tunisia."
+        },
+        {
+          "heading": "Changes",
+          "body": "These terms may be updated at any time. The last-updated date appears at the top of this page."
+        }
+      ],
+      "contactNote": "For any question about these terms of use, contact us at {email} or by phone at {phone}."
+    }
+  },
+  "common": {
+    "phoneDisplay": "+216 93 339 582",
+    "phoneHref": "+21693339582",
+    "email": "luxanaride@gmail.com",
+    "ceoEmail": "hatemsi.luxanaride@gmail.com",
+    "address": "Rue 23 Janvier, Route de Moknine, Teboulba 5080, Monastir, Tunisia",
+    "whatsappLabel": "Chat on WhatsApp",
+    "hours": "Mon – Sat: 9:00 AM – 6:00 PM"
+  }
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "s1",
+    "category": "scooter",
+    "image": "/images/s1.jpg",
+    "imageAlt": "LuXana Ride S1, blue electric scooter, three-quarter front view",
+    "specs": {
+      "motorPower": "1500 W",
+      "maxSpeed": "70 Km/h",
+      "rangeLithium": "100 Km",
+      "rangePlomb": "110 Km",
+      "chargeTime": "6 h",
+      "controller": "15 Tubes",
+      "tires": "3.0-10 Tubeless",
+      "loadCapacity": "250 Kg"
+    },
+    "content": {
+      "fr": {
+        "name": "LuXana Ride S1",
+        "tagline": "L'équilibre parfait entre puissance et autonomie.",
+        "brakes": "Disque Avant/Arrière",
+        "overview": [
+          "Le S1 embarque un moteur de 1500 W et atteint 70 km/h, pour des trajets urbains rapides sans effort.",
+          "Selon la batterie choisie, il offre jusqu'à 100 km d'autonomie en lithium ou 110 km en plomb-acide — de quoi couvrir une semaine de trajets sans recharge quotidienne.",
+          "Freinage à disque à l'avant comme à l'arrière et pneus Tubeless pour une conduite sûre en toutes circonstances."
+        ],
+        "features": [
+          "Moteur 1500 W",
+          "Contrôleur 15 tubes",
+          "Freins à disque avant/arrière",
+          "Pneus Tubeless 3.0-10 (sans chambre à air)",
+          "Capacité de charge 250 kg",
+          "Recharge complète en 6 heures"
+        ]
+      },
+      "en": {
+        "name": "LuXana Ride S1",
+        "tagline": "The perfect balance of power and range.",
+        "brakes": "Front & rear disc brakes",
+        "overview": [
+          "The S1 packs a 1500 W motor and a top speed of 70 km/h, for fast city commutes without effort.",
+          "Depending on the battery you choose, it delivers up to 100 km of range on lithium or 110 km on lead-acid — enough to cover a full week of riding without a daily charge.",
+          "Front and rear disc brakes and tubeless tires keep every ride safe and predictable."
+        ],
+        "features": [
+          "1500 W motor",
+          "15-tube controller",
+          "Front & rear disc brakes",
+          "3.0-10 tubeless tires",
+          "250 kg load capacity",
+          "Full charge in 6 hours"
+        ]
+      },
+      "ar": {
+        "name": "لوكسانا رايد S1",
+        "tagline": "التوازن المثالي بين القوة والمدى.",
+        "brakes": "فرامل قرصية أمامية وخلفية",
+        "overview": [
+          "يأتي S1 بمحرك بقوة 1500 واط وسرعة قصوى تبلغ 70 كم/سا، لتنقلات سريعة داخل المدينة دون أي جهد.",
+          "حسب البطارية المختارة، يوفر مدى يصل إلى 100 كم مع بطارية الليثيوم أو 110 كم مع بطارية الرصاص الحمضي — يكفي لتغطية أسبوع كامل من التنقل دون شحن يومي.",
+          "فرامل قرصية أمامية وخلفية وإطارات لا أنبوبية (Tubeless) تضمن قيادة آمنة في كل الظروف."
+        ],
+        "features": [
+          "محرك بقوة 1500 واط",
+          "وحدة تحكم بـ15 أنبوبًا",
+          "فرامل قرصية أمامية وخلفية",
+          "إطارات Tubeless مقاس 3.0-10",
+          "سعة تحميل 250 كغ",
+          "شحن كامل خلال 6 ساعات"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "s2",
+    "category": "scooter",
+    "image": "/images/s2.jpg",
+    "imageAlt": "LuXana Ride S2, orange electric scooter, three-quarter front view",
+    "specs": {
+      "motorPower": "2000 W",
+      "maxSpeed": "75 Km/h",
+      "rangeLithium": "100 Km",
+      "rangePlomb": "110 Km",
+      "chargeTime": "6 h",
+      "controller": "15 Tubes",
+      "tires": "90/90-14 Vacuum",
+      "loadCapacity": "250 Kg"
+    },
+    "content": {
+      "fr": {
+        "name": "LuXana Ride S2",
+        "tagline": "Plus de puissance, plus de vitesse, même fiabilité.",
+        "brakes": "Disque Avant/Arrière",
+        "overview": [
+          "Le S2 pousse la puissance à 2000 W et une vitesse de pointe de 75 km/h, pour les trajets qui demandent plus de nerf.",
+          "Même autonomie généreuse que le S1 — jusqu'à 100 km en lithium, 110 km en plomb-acide — avec des pneus Vacuum 90/90-14 qui améliorent le confort de route.",
+          "Freinage à disque avant/arrière et une capacité de charge de 250 kg, pour un usage quotidien intensif."
+        ],
+        "features": [
+          "Moteur 2000 W",
+          "Contrôleur 15 tubes",
+          "Freins à disque avant/arrière",
+          "Pneus Vacuum 90/90-14 (sous vide)",
+          "Capacité de charge 250 kg",
+          "Recharge complète en 6 heures"
+        ]
+      },
+      "en": {
+        "name": "LuXana Ride S2",
+        "tagline": "More power, more speed, the same reliability.",
+        "brakes": "Front & rear disc brakes",
+        "overview": [
+          "The S2 raises output to 2000 W and a top speed of 75 km/h, for rides that demand more punch.",
+          "The same generous range as the S1 — up to 100 km on lithium, 110 km on lead-acid — with 90/90-14 vacuum tires that smooth out the ride.",
+          "Front and rear disc brakes and a 250 kg load capacity make it ready for intensive daily use."
+        ],
+        "features": [
+          "2000 W motor",
+          "15-tube controller",
+          "Front & rear disc brakes",
+          "90/90-14 vacuum tires",
+          "250 kg load capacity",
+          "Full charge in 6 hours"
+        ]
+      },
+      "ar": {
+        "name": "لوكسانا رايد S2",
+        "tagline": "قوة أكبر، سرعة أعلى، الموثوقية نفسها.",
+        "brakes": "فرامل قرصية أمامية وخلفية",
+        "overview": [
+          "يرفع S2 القوة إلى 2000 واط وسرعة قصوى تبلغ 75 كم/سا، للرحلات التي تتطلب أداءً أقوى.",
+          "نفس المدى السخي الذي يقدمه S1 — حتى 100 كم مع الليثيوم و110 كم مع الرصاص الحمضي — مع إطارات Vacuum مقاس 90/90-14 تمنح راحة أكبر أثناء القيادة.",
+          "فرامل قرصية أمامية وخلفية وسعة تحميل 250 كغ، ليكون جاهزًا للاستخدام اليومي المكثف."
+        ],
+        "features": [
+          "محرك بقوة 2000 واط",
+          "وحدة تحكم بـ15 أنبوبًا",
+          "فرامل قرصية أمامية وخلفية",
+          "إطارات Vacuum مقاس 90/90-14",
+          "سعة تحميل 250 كغ",
+          "شحن كامل خلال 6 ساعات"
+        ]
+      }
+    }
+  }
+]

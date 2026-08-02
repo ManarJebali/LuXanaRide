@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-brand-ink text-brand-white antialiased;
+  }
+
+  [dir="rtl"] body {
+    @apply font-arabic;
+  }
+
+  ::selection {
+    @apply bg-brand-red/30 text-brand-white;
+  }
+
+  :focus-visible {
+    @apply outline outline-2 outline-offset-2 outline-brand-red;
+  }
+}
+
+@layer components {
+  .form-input {
+    @apply w-full border border-brand-line bg-brand-charcoal px-4 py-3 text-sm text-brand-white placeholder:text-brand-mist/60 focus:border-brand-red focus:outline-none;
+  }
+}

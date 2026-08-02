@@ -1,0 +1,146 @@
+[
+  {
+    "slug": "t1",
+    "category": "tricycle",
+    "image": "/images/t1.jpg",
+    "imageAlt": "LuXana Ride T1, black electric tricycle with front basket, three-quarter front view",
+    "specs": {
+      "motorPower": "650 W",
+      "maxSpeed": "25 Km/h",
+      "rangeLithium": "70 Km",
+      "rangePlomb": "60 Km",
+      "chargeTime": "6 h",
+      "controller": "12 Tubes",
+      "tires": "3.0-10 Tubeless",
+      "loadCapacity": "250 Kg"
+    },
+    "content": {
+      "fr": {
+        "name": "LuXana Ride T1",
+        "tagline": "Le tricycle utilitaire, stable et polyvalent.",
+        "brakes": "Disque avant / Tambour arrière",
+        "overview": [
+          "Le T1 est un tricycle électrique 650 W conçu pour la stabilité et la praticité au quotidien, en ville comme pour de courtes livraisons.",
+          "Son panier avant et sa selle avec dossier passager en font un compagnon polyvalent, aussi à l'aise pour les courses que pour un second passager.",
+          "Freins à disque à l'avant et tambours à l'arrière, pour un freinage progressif et fiable à toutes les vitesses."
+        ],
+        "features": [
+          "Moteur 650 W",
+          "Contrôleur 12 tubes",
+          "Panier de rangement avant intégré",
+          "Selle avec dossier passager",
+          "Freins disque avant / tambour arrière",
+          "Capacité de charge 250 kg"
+        ]
+      },
+      "en": {
+        "name": "LuXana Ride T1",
+        "tagline": "The utility tricycle — stable and versatile.",
+        "brakes": "Front disc / rear drum brakes",
+        "overview": [
+          "The T1 is a 650 W electric tricycle built for everyday stability and practicality, whether around town or for short delivery runs.",
+          "Its front storage basket and passenger seat with backrest make it a versatile companion — as comfortable running errands as carrying a second rider.",
+          "Front disc brakes and rear drum brakes deliver progressive, dependable stopping at any speed."
+        ],
+        "features": [
+          "650 W motor",
+          "12-tube controller",
+          "Integrated front storage basket",
+          "Passenger seat with backrest",
+          "Front disc / rear drum brakes",
+          "250 kg load capacity"
+        ]
+      },
+      "ar": {
+        "name": "لوكسانا رايد T1",
+        "tagline": "التريسيكل العملي — ثابت ومتعدد الاستخدامات.",
+        "brakes": "فرامل قرصية أمامية / طبلية خلفية",
+        "overview": [
+          "T1 تريسيكل كهربائي بقوة 650 واط مصمم للثبات والعملية في الاستخدام اليومي، سواء داخل المدينة أو لمشاوير توصيل قصيرة.",
+          "سلته الأمامية للتخزين ومقعده الخلفي المزوّد بمسند ظهر يجعلانه رفيقًا متعدد الاستخدامات — مناسبًا لقضاء المشاوير أو لحمل راكب إضافي.",
+          "فرامل قرصية أمامية وطبلية خلفية توفر توقفًا تدريجيًا وموثوقًا في كل السرعات."
+        ],
+        "features": [
+          "محرك بقوة 650 واط",
+          "وحدة تحكم بـ12 أنبوبًا",
+          "سلة تخزين أمامية مدمجة",
+          "مقعد راكب بمسند ظهر",
+          "فرامل قرصية أمامية / طبلية خلفية",
+          "سعة تحميل 250 كغ"
+        ]
+      }
+    }
+  },
+  {
+    "slug": "t2",
+    "category": "tricycle",
+    "image": "/images/t2.jpg",
+    "imageAlt": "LuXana Ride T2, white and mint electric tricycle with enclosed roof cabin, three-quarter front view",
+    "specs": {
+      "motorPower": "650 W",
+      "maxSpeed": "25 Km/h",
+      "rangeLithium": "70 Km",
+      "rangePlomb": "60 Km",
+      "chargeTime": "6 h",
+      "controller": "12 Tubes",
+      "tires": "3.0-10 Tubeless",
+      "loadCapacity": "250 Kg"
+    },
+    "content": {
+      "fr": {
+        "name": "LuXana Ride T2",
+        "tagline": "Le tricycle habitacle, pensé pour rouler par tous les temps.",
+        "brakes": "Disque avant / Tambour arrière",
+        "overview": [
+          "Le T2 reprend la base technique du T1 — moteur 650 W, freins avant à disque — dans une carrosserie fermée avec toit et pare-brise.",
+          "Idéal pour les trajets par temps de pluie ou de vent, ou pour les usagers recherchant un confort et une protection accrus au quotidien.",
+          "Assise large avec accoudoirs et dossier, pour un poste de conduite confortable sur les trajets plus longs."
+        ],
+        "features": [
+          "Moteur 650 W",
+          "Habitacle fermé avec toit et pare-brise",
+          "Assise large avec accoudoirs",
+          "Freins disque avant / tambour arrière",
+          "Rétroviseurs grand angle",
+          "Capacité de charge 250 kg"
+        ]
+      },
+      "en": {
+        "name": "LuXana Ride T2",
+        "tagline": "The cabin tricycle, built to ride in any weather.",
+        "brakes": "Front disc / rear drum brakes",
+        "overview": [
+          "The T2 shares its technical base with the T1 — 650 W motor, front disc brakes — inside an enclosed body with a roof and windshield.",
+          "Ideal for rainy or windy days, or for riders who simply want more comfort and protection on their daily routes.",
+          "A wide seat with armrests and backrest keeps the ride comfortable over longer trips."
+        ],
+        "features": [
+          "650 W motor",
+          "Enclosed cabin with roof and windshield",
+          "Wide seat with armrests",
+          "Front disc / rear drum brakes",
+          "Wide-angle mirrors",
+          "250 kg load capacity"
+        ]
+      },
+      "ar": {
+        "name": "لوكسانا رايد T2",
+        "tagline": "تريسيكل المقصورة، مصمم للقيادة في كل الأحوال الجوية.",
+        "brakes": "فرامل قرصية أمامية / طبلية خلفية",
+        "overview": [
+          "يشارك T2 القاعدة التقنية لـ T1 — محرك 650 واط وفرامل أمامية قرصية — ضمن هيكل مغلق بسقف وزجاج أمامي.",
+          "مثالي لأيام المطر أو الرياح، أو لمن يبحث ببساطة عن راحة وحماية أكبر في تنقلاته اليومية.",
+          "مقعد عريض مزوّد بمساند للذراعين ومسند ظهر يحافظ على الراحة في الرحلات الأطول."
+        ],
+        "features": [
+          "محرك بقوة 650 واط",
+          "مقصورة مغلقة بسقف وزجاج أمامي",
+          "مقعد عريض بمساند للذراعين",
+          "فرامل قرصية أمامية / طبلية خلفية",
+          "مرايا بزاوية رؤية واسعة",
+          "سعة تحميل 250 كغ"
+        ]
+      }
+    }
+  }
+]

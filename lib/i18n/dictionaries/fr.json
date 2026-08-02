@@ -1,0 +1,262 @@
+{
+  "meta": {
+    "titleSuffix": "LuXana Ride — Scooters & Tricycles Électriques",
+    "home": {
+      "title": "LuXana Ride | Scooters & Tricycles Électriques",
+      "description": "LuXana Ride distribue des scooters et tricycles 100% électriques : gammes S1, S2, T1 et T2. Autonomie, puissance et garantie constructeur. Demandez un devis."
+    },
+    "scooters": {
+      "title": "Scooters Électriques",
+      "description": "Découvrez les scooters électriques S1 et S2 de LuXana Ride : puissance, autonomie et freinage à disque pour la ville."
+    },
+    "tricycles": {
+      "title": "Tricycles Électriques",
+      "description": "Découvrez les tricycles électriques T1 et T2 de LuXana Ride, pour un usage utilitaire ou un confort renforcé par tous les temps."
+    },
+    "about": {
+      "title": "À Propos | LuXana Ride",
+      "description": "LuXana Ride sélectionne et distribue des deux-roues et tricycles électriques fiables, garantis et adaptés à un usage quotidien."
+    },
+    "contact": {
+      "title": "Contact | LuXana Ride",
+      "description": "Contactez LuXana Ride pour un devis, un essai ou une question sur nos scooters et tricycles électriques."
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité | LuXana Ride",
+      "description": "Découvrez comment LuXana Ride collecte et utilise les données transmises via ce site."
+    },
+    "terms": {
+      "title": "Conditions d'Utilisation | LuXana Ride",
+      "description": "Conditions d'utilisation du site LuXana Ride."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "scooters": "Scooters",
+    "tricycles": "Tricycles",
+    "about": "À Propos",
+    "contact": "Contact",
+    "requestInfo": "Demander un Devis"
+  },
+  "header": {
+    "callUs": "Appelez-nous"
+  },
+  "hero": {
+    "eyebrow": "Scooters & Tricycles 100% Électriques",
+    "title": "Roulez électrique, sans compromis sur la puissance ni le confort.",
+    "subtitle": "LuXana Ride sélectionne et distribue des scooters et tricycles électriques pensés pour un usage quotidien exigeant — autonomie, robustesse et garantie constructeur sur chaque modèle.",
+    "ctaPrimary": "Découvrir les Scooters",
+    "ctaSecondary": "Découvrir les Tricycles",
+    "imageAlt": "LuXana Ride S1, scooter électrique bleu, trois-quarts avant"
+  },
+  "lineup": {
+    "eyebrow": "La Gamme",
+    "title": "Deux scooters, deux tricycles — une seule exigence de fiabilité",
+    "intro": "Chaque modèle LuXana Ride est vendu avec une garantie constructeur détaillée sur ses composants principaux."
+  },
+  "why": {
+    "eyebrow": "Pourquoi LuXana Ride",
+    "title": "Une gamme électrique pensée pour durer",
+    "intro": "Nous sélectionnons des modèles robustes, testés, et nous les accompagnons d'une garantie claire sur chaque composant essentiel.",
+    "points": [
+      {
+        "title": "Batterie lithium garantie 2 ans",
+        "body": "La batterie lithium de chaque modèle est couverte 2 ans, le double de la batterie plomb-acide."
+      },
+      {
+        "title": "Moteur et contrôleur garantis 1 an",
+        "body": "Les composants électriques essentiels — moteur et contrôleur — sont couverts 1 an sur toute la gamme."
+      },
+      {
+        "title": "Freinage à disque",
+        "body": "Freins à disque à l'avant sur tous les modèles, pour un freinage sûr et réactif en toutes circonstances."
+      },
+      {
+        "title": "Autonomie jusqu'à 110 km",
+        "body": "Selon le modèle et la batterie choisie, une autonomie pensée pour couvrir plusieurs jours de trajets sans recharge."
+      }
+    ]
+  },
+  "warranty": {
+    "eyebrow": "Garantie Constructeur",
+    "title": "Une garantie détaillée, composant par composant",
+    "intro": "Chaque scooter et tricycle LuXana Ride est couvert par la garantie constructeur suivante.",
+    "items": [
+      { "label": "Cadre", "duration": "1 an" },
+      { "label": "Fourche avant", "duration": "1 an" },
+      { "label": "Engrenages, roulements", "duration": "1 an" },
+      { "label": "Guidon, potence, freins (hors patins et plaquettes)", "duration": "1 an" },
+      { "label": "Moteur, contrôleur", "duration": "1 an" },
+      { "label": "Peinture (hors dommages intentionnels ou accidentels)", "duration": "1 an" },
+      { "label": "Batterie plomb-acide", "duration": "1 an" },
+      { "label": "Batterie lithium", "duration": "2 ans" }
+    ]
+  },
+  "ctaBand": {
+    "title": "Prêt à essayer un LuXana Ride ?",
+    "subtitle": "Demandez un devis, posez vos questions sur un modèle ou organisez un essai — notre équipe vous répond rapidement.",
+    "primaryLabel": "Demander un Devis",
+    "secondaryLabel": "Nous Contacter"
+  },
+  "footer": {
+    "description": "Distributeur de scooters et tricycles 100% électriques — gammes S1, S2, T1 et T2, garanties constructeur.",
+    "exploreTitle": "Explorer",
+    "ownershipTitle": "Assistance",
+    "contactTitle": "Contact",
+    "hours": "Lun – Sam : 9h00 – 18h00",
+    "rights": "Tous droits réservés.",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfUse": "Conditions d'Utilisation"
+  },
+  "vehicleDetail": {
+    "backToScooters": "← Tous les Scooters",
+    "backToTricycles": "← Tous les Tricycles",
+    "specsTitle": "Fiche Technique",
+    "overviewTitle": "Présentation",
+    "featuresTitle": "Points Forts",
+    "requestQuote": "Demander un Devis",
+    "bookTestRide": "Réserver un Essai",
+    "requestTitlePrefix": "Demander des informations sur le",
+    "requestIntro": "Recevez le prix, la disponibilité et les conditions de garantie de ce modèle, ou réservez un essai en concession. Un conseiller vous répond sous un jour ouvré.",
+    "notSureTitle": "Vous hésitez entre plusieurs modèles ?",
+    "notSureBody": "Comparez toute la gamme ou échangez avec un conseiller sur l'autonomie, la puissance et la garantie.",
+    "viewAllScooters": "Voir tous les scooters",
+    "viewAllTricycles": "Voir tous les tricycles",
+    "specs": {
+      "motorPower": "Puissance Moteur",
+      "maxSpeed": "Vitesse Maximale",
+      "rangeLithium": "Autonomie (batterie lithium)",
+      "rangePlomb": "Autonomie (batterie plomb-acide)",
+      "chargeTime": "Temps de Charge",
+      "controller": "Contrôleur",
+      "brakes": "Freinage",
+      "tires": "Pneus",
+      "loadCapacity": "Capacité de Chargement"
+    }
+  },
+  "inquiryForm": {
+    "fullName": "Nom complet",
+    "email": "Adresse e-mail",
+    "phone": "Téléphone",
+    "modelOfInterest": "Modèle souhaité",
+    "generalInquiry": "Demande générale",
+    "requestType": "Votre demande",
+    "requestTypes": {
+      "quote": "Demander un devis",
+      "testRide": "Réserver un essai",
+      "warranty": "Question sur la garantie",
+      "general": "Question générale"
+    },
+    "preferredContact": "Moyen de contact préféré",
+    "contactEmail": "E-mail",
+    "contactPhone": "Téléphone",
+    "message": "Message",
+    "messagePlaceholder": "Décrivez votre besoin, votre ville, ou toute question sur un modèle précis.",
+    "submit": "Envoyer la Demande",
+    "sending": "Envoi en cours…",
+    "success": "Merci — un conseiller LuXana Ride vous répondra sous un jour ouvré.",
+    "error": "Une erreur est survenue lors de l'envoi. Merci de réessayer ou de nous appeler directement."
+  },
+  "about": {
+    "eyebrow": "À Propos",
+    "title": "Des deux-roues et tricycles électriques, sélectionnés et garantis",
+    "intro": "LuXana Ride distribue des scooters et tricycles électriques choisis pour leur fiabilité, et couverts par une garantie constructeur claire sur chaque composant essentiel — moteur, contrôleur, batterie et châssis.",
+    "approachTitle": "Notre Approche",
+    "approach": "Nous limitons volontairement notre gamme à des modèles éprouvés — deux scooters, deux tricycles — plutôt que de multiplier les références. Cela nous permet de garantir un stock de pièces détachées et un service après-vente réactif sur chaque modèle vendu.",
+    "warrantyTitle": "Garantie & Service Après-Vente",
+    "warrantyBody": "Chaque véhicule est livré avec la garantie détaillée sur cette page, ainsi qu'un accompagnement pour l'entretien courant et les réparations.",
+    "categoriesTitle": "Deux Gammes",
+    "categories": [
+      {
+        "title": "Scooters (S1, S2)",
+        "body": "Des scooters deux-roues pensés pour la ville : jusqu'à 2000 W et 75 km/h, avec freinage à disque avant/arrière."
+      },
+      {
+        "title": "Tricycles (T1, T2)",
+        "body": "Des tricycles trois-roues, du modèle utilitaire avec panier au modèle habitacle fermé pour rouler par tous les temps."
+      }
+    ]
+  },
+  "contactPage": {
+    "eyebrow": "Contact",
+    "title": "Parlons de votre prochain trajet.",
+    "intro": "Demandez un devis, réservez un essai ou posez toute question sur un modèle — nous répondons sous un jour ouvré.",
+    "formTitle": "Envoyer une demande",
+    "directTitle": "Contact Direct",
+    "locationsTitle": "Notre Showroom",
+    "addressLabel": "Adresse",
+    "ceoLabel": "Direction",
+    "getDirections": "Obtenir l'itinéraire"
+  },
+  "legal": {
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "lastUpdated": "Dernière mise à jour : 28 juillet 2026",
+      "intro": "Cette politique explique quelles données LuXana Ride collecte via ce site, comment elles sont utilisées, et vos droits à leur sujet.",
+      "sections": [
+        {
+          "heading": "Données collectées",
+          "body": "Lorsque vous utilisez notre formulaire de contact, nous collectons les informations que vous fournissez volontairement : nom, adresse e-mail, numéro de téléphone (facultatif), modèle qui vous intéresse, type de demande, et message. Nous ne collectons aucune autre donnée personnelle sur ce site."
+        },
+        {
+          "heading": "Utilisation des données",
+          "body": "Les informations soumises via le formulaire sont utilisées uniquement pour répondre à votre demande (devis, essai, question générale). Elles ne sont ni vendues, ni louées, ni partagées avec des tiers à des fins commerciales."
+        },
+        {
+          "heading": "Conservation des données",
+          "body": "Les messages reçus sont conservés le temps nécessaire au traitement de votre demande, puis supprimés ou archivés de manière sécurisée."
+        },
+        {
+          "heading": "Cookies",
+          "body": "Ce site n'utilise pas de cookies de suivi ou d'analyse publicitaire. Aucune donnée de navigation n'est collectée à des fins de profilage."
+        },
+        {
+          "heading": "Vos droits",
+          "body": "Vous pouvez à tout moment demander l'accès, la correction ou la suppression des données que vous nous avez transmises, en nous contactant directement."
+        }
+      ],
+      "contactNote": "Pour toute question relative à cette politique de confidentialité, contactez-nous à {email} ou par téléphone au {phone}."
+    },
+    "terms": {
+      "title": "Conditions d'Utilisation",
+      "lastUpdated": "Dernière mise à jour : 28 juillet 2026",
+      "intro": "En utilisant ce site, vous acceptez les conditions suivantes.",
+      "sections": [
+        {
+          "heading": "Objet du site",
+          "body": "Ce site présente la gamme de scooters et tricycles électriques LuXana Ride à titre d'information. Il ne permet pas l'achat en ligne : toute transaction (devis, commande, paiement) se fait directement avec notre équipe, par téléphone, e-mail ou en showroom."
+        },
+        {
+          "heading": "Exactitude des informations",
+          "body": "Nous nous efforçons de maintenir les spécifications techniques, descriptions et disponibilités à jour. Ces informations peuvent néanmoins évoluer sans préavis ; le prix et la disponibilité définitifs sont confirmés au moment de la demande."
+        },
+        {
+          "heading": "Propriété intellectuelle",
+          "body": "Les textes, images et éléments graphiques de ce site sont la propriété de LuXana Ride ou de ses fournisseurs, et ne peuvent être reproduits sans autorisation."
+        },
+        {
+          "heading": "Limitation de responsabilité",
+          "body": "LuXana Ride ne saurait être tenu responsable d'un usage inapproprié des informations publiées sur ce site, ni des conséquences d'une décision prise sur leur seule base sans confirmation directe auprès de notre équipe."
+        },
+        {
+          "heading": "Droit applicable",
+          "body": "Les présentes conditions sont régies par le droit tunisien. Tout litige relève des tribunaux compétents de Monastir, Tunisie."
+        },
+        {
+          "heading": "Modifications",
+          "body": "Ces conditions peuvent être mises à jour à tout moment. La date de dernière mise à jour figure en haut de cette page."
+        }
+      ],
+      "contactNote": "Pour toute question relative à ces conditions d'utilisation, contactez-nous à {email} ou par téléphone au {phone}."
+    }
+  },
+  "common": {
+    "phoneDisplay": "+216 93 339 582",
+    "phoneHref": "+21693339582",
+    "email": "luxanaride@gmail.com",
+    "ceoEmail": "hatemsi.luxanaride@gmail.com",
+    "address": "Rue 23 Janvier, Route de Moknine, Teboulba 5080, Monastir, Tunisie",
+    "whatsappLabel": "Discuter sur WhatsApp",
+    "hours": "Lun – Sam : 9h00 – 18h00"
+  }
+}
